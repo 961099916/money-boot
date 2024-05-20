@@ -1,6 +1,6 @@
 spring:
   redis:
-    host: localhost
+    host: host.jiuxialb.top
     port: 6379
-    password:
+    password: zjh410439..ZJH
     database: 0
