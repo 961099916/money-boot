@@ -1,0 +1,5 @@
+spring:
+  profiles:
+    include: datasource,mybatis-plus
+server:
+  port: 8888
